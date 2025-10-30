@@ -4,7 +4,7 @@ url: "https://klaos093.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Bolts and Bits                                    # site's title
-description: "Career change blog"      # used by search engines
+description: "A career change blog"      # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
