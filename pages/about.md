@@ -8,7 +8,7 @@ tags: [Page]
 
 # 👋 Hi, I’m @klaos093!
 
-Welcome to my GitHub profile! I'm a car mechanic with a passion for technology and a strong drive to transition into the field of cybersecurity. I’m actively building my skills and knowledge, backed by several industry-recognized certifications.
+Welcome to Bolts and Bits! I'm a car mechanic with a passion for technology and a strong drive to transition into the field of cybersecurity. I’m actively building my skills and knowledge, backed by several industry-recognized certifications.
 
 ---
 
@@ -51,8 +51,8 @@ I’m eager to collaborate on:
 
 ## 📫 How to Reach Me
 
-- **LinkedIn**: www.linkedin.com/in/konstantinos-laos-8a48591a3
-- **Email**: klaos093@outlook.com
+- **LinkedIn:** [Konstantinos Laos](https://www.linkedin.com/in/konstantinos-laos-8a48591a3)
+- **Email:** [klaos093@outlook.com](mailto:klaos093@outlook.com)
 
 ---
 
@@ -62,6 +62,6 @@ Just as I would fine-tune an engine, I’m dedicated to fine-tuning security sys
 
 ---
 
-**Thanks for visiting my profile!** Explore my repositories, and feel free to reach out if you’d like to collaborate or discuss cybersecurity.
+**Thanks for visiting my page!** Explore my page, and feel free to reach out if you’d like to collaborate or discuss cybersecurity.
 
  
