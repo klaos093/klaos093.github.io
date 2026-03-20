@@ -1,30 +1,36 @@
-# Happy Wife, Happy Life — and a QR Code
+---
+title: "Organizing Home Storage with a QR Code and Google Sheets"
+date: 2026-03-20 18:00:00 +0100
+categories: [Projects]
+tags: [home-automation, organization, qr-code, productivity, google-sheets]
+---
 
-Some projects start with curiosity.  
-Others start with frustration.
+### What This Project Is About
 
-This one started with a sentence:
+This project explores how to organize a **home storage space** using a **single QR code** and a **Google Sheet**.
 
-> “We really need to organize the storage.”
+The goal is to create a simple, maintainable system that makes it easy to **track what’s in each box** and **find items quickly**, without relying on complex tools or apps.
 
-And she was absolutely right.
+Instead of just labeling boxes, this approach focuses on making storage **searchable and accessible from any phone**.
 
-## The Problem
+---
+
+### The Problem
 
 Our storage room had slowly evolved into what I can only describe as **a high-density chaos system**:
 
 - Boxes without clear labels  
 - Seasonal items buried behind unrelated stuff  
 - Things we *knew* we had, but couldn’t find  
-- And of course — duplicates of items we forgot existed  
+- Duplicate items we forgot we already owned  
 
-At some point, it started to feel like a place where things go in… and don’t come back out unless by pure luck.
+At some point, it became less about storage and more about searching blindly.
 
 Every “quick search” turned into a 20-minute excavation.
 
-Not ideal.
+---
 
-## The Idea
+### The Idea
 
 Instead of organizing *just the physical space*, I decided to organize the **information layer**.
 
@@ -35,17 +41,17 @@ The system is intentionally simple:
 - The sheet contains box numbers and their contents  
 - One QR code that opens the sheet  
 
-That’s it.
+This creates a single, centralized place where everything is documented.
 
-No complex app. No database. No overengineering.
+---
 
-## How It Works
+### How It Works
 
 When a new box goes into storage:
 
-1. Assign it a number (e.g. `Box 12`)
-2. Add it to the Google Sheet with a short description of its contents
-3. Place it in storage
+1. Assign it a number (e.g. `Box 12`)  
+2. Add it to the Google Sheet with a short description of its contents  
+3. Place it in storage  
 
 When we need something:
 
@@ -54,71 +60,79 @@ When we need something:
 - Search for the item  
 - Find the box number  
 
-Then it’s just a matter of going straight to the right box.
+Then go directly to the correct box.
 
 No guessing. No digging through everything.
 
-## Why a Single QR Code?
+---
 
-Because it keeps things simple.
+### Why Use a QR Code?
 
-There’s no need to:
-- Maintain multiple labels with links  
-- Generate QR codes per box  
-- Keep track of different entry points  
+Using a single QR code keeps the system:
 
-One code. One source of truth.
+- **Simple** → No need for multiple labels or links  
+- **Accessible** → Works instantly from any phone  
+- **Centralized** → One entry point to all storage data  
 
-You scan it, and everything is there.
-
-## Design Principles
-
-I deliberately kept the system:
-
-- **Simple** → Easy to maintain over time  
-- **Shared** → Accessible from any phone  
-- **Transparent** → Anyone can understand it instantly  
-- **Fast** → Find anything in seconds  
-
-In other words: minimal effort, maximum usefulness.
-
-## The Outcome
-
-The storage room is now:
-
-- Actually organized  
-- Easy to navigate  
-- Much less frustrating to use  
-
-And most importantly:
-
-> We can finally find things when we need them.
-
-Also — and this might be the real success metric —
-
-**my wife is happy.**
-
-## Lessons Learned
-
-A few takeaways from this small project:
-
-- The best systems reduce *friction*, not just clutter  
-- A single source of truth is incredibly powerful  
-- Simplicity scales better than complexity  
-- Small improvements at home have a big impact  
-
-## Closing Thoughts
-
-This isn’t a complex piece of technology.
-
-But it *is* a practical one.
-
-Sometimes the best projects are the ones that solve everyday problems in a way that actually sticks.
+It removes friction and makes the system easy to use for anyone.
 
 ---
 
-If you’re dealing with a similar situation, try this:
+### What You Learn From This Project
 
-Don’t just organize your storage.
+#### 📦 Simple Inventory Management
+You learn how to:
+- Track physical items in a structured way  
+- Maintain a single source of truth  
+- Keep information up to date with minimal effort  
 
-**Make it searchable.**
+---
+
+#### 🔍 Making Storage Searchable
+Instead of relying on memory, you:
+- Search for items digitally  
+- Map them to physical locations  
+- Reduce time spent looking for things  
+
+---
+
+#### 🔄 Building Maintainable Systems
+The system is:
+- Easy to update  
+- Easy to understand  
+- Easy to extend if needed  
+
+This makes it sustainable over time, even as storage changes.
+
+---
+
+### Lessons Learned
+
+- **Simple systems work best**  
+  The easier it is to use, the more likely it will be maintained.
+
+- **Search beats memory**  
+  Being able to look things up is more reliable than remembering.
+
+- **One source of truth is powerful**  
+  Centralizing information avoids confusion and duplication.
+
+- **Small improvements have real impact**  
+  Saving a few minutes each time adds up quickly.
+
+---
+
+### Final Thoughts
+
+This isn’t a complex technical system.
+
+But it solves a real, everyday problem in a practical way.
+
+Sometimes the most useful projects are the ones that make daily life a little easier.
+
+---
+
+If you’re dealing with a similar situation:
+
+**Don’t just organize your storage.  
+Make it searchable.**
